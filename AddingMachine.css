@@ -1,0 +1,38 @@
+.centered{
+  float:center;
+}
+input{
+  font-size: 25px;
+  background-color:Gray;
+  color:#1b00b5;
+  height: 70px;
+  width:70px;
+}
+
+input:hover  {
+  color:lightGray;
+  background-color:#9000ff;
+  height: 65px;
+  width:65px;
+}
+body{
+   background-image: linear-gradient(to  bottom left,#2600ff  , #ffd9f5);
+}
+.clear{
+
+  height: 70px;
+  width:110px;
+
+}
+.clear:hover{
+
+  height: 65px;
+  width:105px;
+
+}
+h1{
+  text-align: center;
+  font-family: CourierNew;
+  font-weight: bolder;
+  color:white
+}
